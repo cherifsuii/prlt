@@ -10,7 +10,7 @@ const Footer = () => {
               Developed by Cherif Tas.
             </p>
             <p className="text-sm text-gray-500">
-              "I want them to pray for me as well if you care about this."
+              &quot;I want them to pray for me as well if you care about this.&quot;
             </p>
           </div>
           <div className="flex space-x-4">
